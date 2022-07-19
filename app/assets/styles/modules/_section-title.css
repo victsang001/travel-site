@@ -15,6 +15,14 @@
     color: $mainBlue;
   }
 
+<<<<<<< HEAD
+=======
+  &--less-margin {
+    margin-bottom: 1.3rem;
+    margin-top: 0;
+  }
+
+>>>>>>> create-modal
   &__icon {
     display: block;
     margin-left: auto;

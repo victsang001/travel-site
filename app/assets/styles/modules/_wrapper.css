@@ -10,6 +10,13 @@
     max-width: 976px;
   }
 
+<<<<<<< HEAD
+=======
+  &--narrow {
+    max-width: 470px;
+  }
+
+>>>>>>> create-modal
   &--no-padding-until-medium {
     padding-left: 0;
     padding-right: 0;
@@ -29,7 +36,10 @@
       padding-right: 18px;
     }
   }
+<<<<<<< HEAD
   
+=======
+>>>>>>> create-modal
 
   .wrapper {
     padding-left: 0;
