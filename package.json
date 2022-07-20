@@ -1,45 +1,12 @@
 {
   "name": "travel-site",
   "version": "1.0.0",
-<<<<<<< HEAD
-  "description": "",
-  "main": "index.js",
-=======
->>>>>>> create-modal
   "scripts": {
     "dev": "webpack serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-<<<<<<< HEAD
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/victsang001/travel-site.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/victsang001/travel-site/issues"
-  },
-  "homepage": "https://github.com/victsang001/travel-site#readme",
   "dependencies": {
-    "lodash": "^4.17.21",
-    "normalize.css": "^8.0.1"
-  },
-  "devDependencies": {
-    "autoprefixer": "^10.4.1",
-    "css-loader": "^6.5.1",
-    "postcss-import": "^14.0.2",
-    "postcss-loader": "^6.2.1",
-    "postcss-mixins": "^9.0.1",
-    "postcss-nested": "^5.0.6",
-    "postcss-simple-vars": "^6.0.3",
-    "style-loader": "^3.3.1",
-    "webpack": "^5.65.0",
-    "webpack-cli": "^4.9.1",
-    "webpack-dev-server": "^4.7.2"
-=======
-  "dependencies": {
+    "lazysizes": "^5.3.2",
     "lodash": "^4.17.20",
     "normalize.css": "^8.0.1"
   },
@@ -55,6 +22,5 @@
     "webpack": "^5.20.0",
     "webpack-cli": "^4.5.0",
     "webpack-dev-server": "^3.11.2"
->>>>>>> create-modal
   }
 }

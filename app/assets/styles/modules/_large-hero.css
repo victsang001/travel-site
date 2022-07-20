@@ -7,23 +7,17 @@
   }
 
   &__text-content {
-<<<<<<< HEAD
-=======
     padding-top: 88px;
->>>>>>> create-modal
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
     left: 0;
     width: 100%;
     text-align: center;
-<<<<<<< HEAD
-=======
 
     @mixin atMedium {
       padding-top: 60px;
     }
->>>>>>> create-modal
   }
 
   &__title {
